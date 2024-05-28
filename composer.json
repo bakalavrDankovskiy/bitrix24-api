@@ -20,7 +20,7 @@
         "psr/log": "^1.0.1 || ^2.0 || ^3.0",
         "ext-json": "*",
         "ext-curl": "*",
-        "monolog/monolog": "^3.0"
+        "monolog/monolog": ">=2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
